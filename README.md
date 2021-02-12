@@ -2,7 +2,11 @@
     - Dependencies:
                   (1) django: pip3 install django
                   (2) Faker: pip3 install Faker
-                  
+                 
+    - Overview:
+                  (1) getData app under the PROJECT_DIR (FTL_APP) contains the model definitions(models.py) and views(views.py)
+                  (2) getData/management/commands/populate_data.py is responsible for generating dummy data with the help of Faker library.
+               
     - Instructions:
                   (1) Get inside FTL_APP repository.
                   (2) Execute: python3 manage.py migrate
