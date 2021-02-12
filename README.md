@@ -4,7 +4,7 @@
                   (2) Faker: pip3 install Faker
                  
     - Overview:
-                  (1) getData app under the PROJECT_DIR (FTL_APP) contains the model definitions(models.py) and views(views.py)
+                  (1) getData app under the PROJECT_DIR (FTL_APP) contains the model definitions(models.py) and views(views.py) that drive this application.
                   (2) getData/management/commands/populate_data.py is responsible for generating dummy data with the help of Faker library.
                
     - Instructions:
