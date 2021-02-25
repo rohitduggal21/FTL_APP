@@ -1,4 +1,9 @@
 ### FTL_APP
+    - Objective:
+                  (1) Populate a backend-database using django's custom management command with 2 data models. 
+                  (2) Create an API endpoint for the generated data.
+                  (2) Deploy the application on PythonAnywhere.
+
     - Dependencies:
                   (1) django: pip3 install django
                   (2) Faker: pip3 install Faker
