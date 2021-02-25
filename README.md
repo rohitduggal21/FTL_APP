@@ -1,6 +1,6 @@
 ### FTL_APP
     - Objective:
-                  (1) Populate a backend-database using django's custom management command with 2 data models. 
+                  (1) Populate a backend-database using django's custom management command with 2 data models (User,Activities). 
                   (2) Create an API endpoint for the generated data.
                   (2) Deploy the application on PythonAnywhere.
 
